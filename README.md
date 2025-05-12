@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Lucas Goulart De Queiroz!
 
-<!--
-**LucasQueiroz005/LucasQueiroz005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Ciência da Computação** – 1º semestre  
+💻 Apaixonado por tecnologia, programação e desenvolvimento web  
+🚀 Em busca de novos conhecimentos e desafios no mundo da computação
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tecnologias que estou estudando
+
+- HTML5, CSS3
+- Git e GitHub
+- Lógica de programação
+- Estrutura de dados (iniciando)
+
+## 🌐 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-queiroz-8a2469350/)  
+
